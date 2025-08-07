@@ -26,7 +26,7 @@ interface APIResponse {
     location: LocationData[]
   }
 }
-// 定義圖表資料的類型
+
 type RainData = {
   date: string
   臺北: number
